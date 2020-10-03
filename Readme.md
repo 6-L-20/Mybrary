@@ -28,3 +28,41 @@ https://www.youtube.com/watch?v=wcx3f0eUiAw
 ### DOTENV (Gestion des var d'environement)
 
 - npm i --save-dev dotenv
+
+
+
+#### GITHUB & HEROKU
+
+- git repository
+
+=> create new App on heroku :
+
+- heroku login
+- heroku git:remote -a my-brary-nodeapp
+- git push heroku master
+
+=> create DB on line :
+
+- LINK: https://www.mongodb.com/cloud/atlas/lp/try2?utm_source=bing&utm_campaign=bs_emea_france_search_brand_atlas_desktop&utm_term=mongodb%20atlas&utm_medium=cpc_paid_search&utm_ad=e&utm_ad_campaign_id=386028214&msclkid=fbf1cf0d9b0c1ba956009075f7e5eb44
+
+
+### Body Parser 
+
+- npm i body-parser
+
+
+
+
+
+
+
+
+
+
+
+
+
+PAUSE :
+https://www.youtube.com/watch?v=esy4nRuShl8&list=PLZlA0Gpn_vH8jbFkBjOuFjhxANC63OmXM&index=6
+
+24:40

@@ -84,7 +84,15 @@ Finalement
 - https://pqina.nl/filepond/docs/patterns/plugins/image-preview/
 
 
+# CRUD :
+
+- npm i method-override
+
+
+
+
+
 
 
 - PAUSE :
-https://www.youtube.com/watch?v=Zi2UwhpooF8&list=PLZlA0Gpn_vH8jbFkBjOuFjhxANC63OmXM&index=7
+https://www.youtube.com/watch?v=UIf1Lh9OZ-k&list=PLZlA0Gpn_vH8jbFkBjOuFjhxANC63OmXM&index=9

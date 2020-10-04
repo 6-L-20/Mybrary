@@ -1,0 +1,29 @@
+:root {
+    /**
+     * HSL FORMAT :
+     * (hue, saturation, lightness)
+     * -> https://en.wikipedia.org/wiki/HSL_and_HSV
+     *
+     *
+     * Base Color (--color-base-hue) :
+     * Ex. 100=>green; 300=>Violet; 240=>BluePrimary
+     *
+     * Color saturation (--percent-color) :
+     * Ex. 0% => grey/black; 100% => color
+     */
+    --color-base-hue: 200;
+    --color-danger-hue-offset: 180;
+    --color-danger-hue: calc(var(--color-base-hue) - var(--color-danger-hue-offset));
+    --color-base-saturation: 100%;
+
+    --bg-dark-color: hsl(var(--color-base-hue), var(--color-base-saturation), 8%);
+    --bg-light-color: hsl(var(--color-base-hue), var(--color-base-saturation), 16%);
+    --text-color-light: hsl(var(--color-base-hue), var(--color-base-saturation), 87%);
+
+    /* --color-primary: hsl(var(--color-base-hue), 100%, 20%);
+    --bg-primary: hsl(var(--color-base-hue), 100%, 83%);
+    --color-secondary: hsl(var(--color-base-hue), 100%, 20%);
+    --bg-secondary: hsl(var(--color-base-hue), 100%, 83%);
+    --color-classic: hsl(var(--color-base-hue), 0%, 20%);
+    --bg-classic: hsl(var(--color-base-hue), 0%, 83%); */
+} 

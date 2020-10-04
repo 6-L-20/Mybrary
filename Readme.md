@@ -95,4 +95,6 @@ Finalement
 
 
 - PAUSE :
-https://www.youtube.com/watch?v=UIf1Lh9OZ-k&list=PLZlA0Gpn_vH8jbFkBjOuFjhxANC63OmXM&index=9
+https://www.youtube.com/watch?v=fagUbvlMjYQ&list=PLZlA0Gpn_vH8jbFkBjOuFjhxANC63OmXM&index=13
+
+20:00

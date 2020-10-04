@@ -1,0 +1,71 @@
+:root {
+    --bg-primary: hsl(var(--color-base-hue), 100%, 83%);
+    --bg-primary-hover: hsl(var(--color-base-hue), 100%, 73%);
+    --color-primary: hsl(var(--color-base-hue), 100%, 20%);
+
+    --bg-danger: hsl(var(--color-danger-hue), 100%, 83%);
+    --bg-danger-hover: hsl(var(--color-danger-hue), 100%, 73%);
+    --color-danger: hsl(var(--color-danger-hue), 100%, 20%);
+}
+
+
+/* ALL Buttons */
+.btn {
+    border: none;
+    box-shadow: 0 0 .05rem rgba(255, 255, 255, 0.247);
+    border-radius: .4rem;
+    padding: .5rem 1rem;
+    font-size: 1.2rem;
+    font-family: 'Gotham Rounded';
+    cursor: pointer;
+    text-decoration: none;
+    text-align: center;
+}
+
+.btn:hover {
+    box-shadow: 0 0 .5rem rgba(255, 255, 255, 0.13);
+}
+
+
+/* Bloc Buttons */
+.btn-row {
+    display: flex;
+    align-items: flex-start;
+    margin: .3rem 0;
+}
+.btn-row > * {
+    margin-left: .5rem;
+}
+.btn-row > *:first-child {
+    margin-left: 0;
+}
+
+
+/* Action Buttons */
+.btn-primary {
+    color: var(--color-primary);
+    background-color: var(--bg-primary);
+}
+.btn-primary:hover {
+    color: var(--color-primary);
+    background-color: var(--bg-primary-hover);
+}
+
+
+/* Delete Buttons */
+.btn-danger {
+    color: var(--color-danger);
+    background-color: var(--bg-danger);
+}
+.btn-danger:hover {
+    color: var(--color-danger);
+    background-color: var(--bg-danger-hover);
+}
+
+
+/* Back Buttons */
+.btn-classic {
+    color: var(--color-classic);
+    background-color: var(--bg-classic);
+}
+

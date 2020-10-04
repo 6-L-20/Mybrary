@@ -68,6 +68,20 @@ _ git add .
 
 - npm i multer
 
+... 
+Finalement 
+
+- npm uninstall multer
+
+# FILE UPLOAD : 
+<https://www.youtube.com/watch?v=Xm5MzWvklbI&list=PLZlA0Gpn_vH8jbFkBjOuFjhxANC63OmXM&index=8>
+
+*https://pqina.nl/filepond/#multi-file-code*
+
+### FilePond 
+- https://pqina.nl/filepond/docs/patterns/plugins/file-encode/
+- https://pqina.nl/filepond/docs/patterns/plugins/image-resize/
+- https://pqina.nl/filepond/docs/patterns/plugins/image-preview/
 
 
 

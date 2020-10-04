@@ -52,17 +52,25 @@ https://www.youtube.com/watch?v=wcx3f0eUiAw
 
 
 
+## HEROKU
+
+_ git add .
+- git commit -m ""
+-git push
+- git push heroku master
+
+##### View logs :
+*-* heroku logs --tail
+
+
+
+## Multer ! (file gestion)
+
+- npm i multer
 
 
 
 
 
-
-
-
-
-
-PAUSE :
-https://www.youtube.com/watch?v=esy4nRuShl8&list=PLZlA0Gpn_vH8jbFkBjOuFjhxANC63OmXM&index=6
-
-24:40
+- PAUSE :
+https://www.youtube.com/watch?v=Zi2UwhpooF8&list=PLZlA0Gpn_vH8jbFkBjOuFjhxANC63OmXM&index=7

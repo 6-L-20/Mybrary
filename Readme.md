@@ -1,7 +1,7 @@
 # NODE MONGO API SERVER
 
 TO-USE :
-- Clone project
+- git clone
 - npm install
 - npm run devStart
 

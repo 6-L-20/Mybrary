@@ -41,6 +41,52 @@
     filter: brightness(2);
 }
 
+.menu-icon {
+    cursor: pointer;
+    position: fixed;
+    top: 1.3rem;
+    right: 1.2rem;
+    height: 2.34rem;
+}
+.menu-icon:hover {
+    filter: brightness(1.2);
+    transform: scale(1.02);
+}
+
+.menu-icon img {
+    height: 2.3rem;
+    width: 2.3rem;
+}
+
+.resp-menu {
+    margin-top: 1.5rem;
+    margin-bottom: 10rem;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    justify-content: center;
+}
+.resp-menu div {
+    margin: .5rem;
+}
+
+.resp-menu a {
+    margin-right: 5rem;
+    font-size: 1.3rem;
+    letter-spacing: .1rem;
+    text-decoration: none;
+    color: var(--text-color-light);
+    font-weight: 400;
+}
+.resp-menu a:hover {
+    filter: brightness(2);
+}
+
+.hidden {
+    display: none;
+}
+
 
 @media (max-width: 600px) {
     .header-nav ul {

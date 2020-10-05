@@ -78,3 +78,17 @@
     color: var(--text-color-light);
     font-size: inherit;
 }
+
+
+@media (max-width: 600px) {
+    .form-row {
+        display: flex;
+        flex-direction: column;
+    }
+    .form-item {
+        margin-left: 0;
+    }
+    .btn-row {
+        display: flex;
+    }
+}

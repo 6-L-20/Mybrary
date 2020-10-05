@@ -43,7 +43,7 @@
 
 .menu-icon {
     cursor: pointer;
-    position: fixed;
+    position: absolute;
     top: 1.3rem;
     right: 1.2rem;
     height: 2.34rem;
